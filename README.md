@@ -3,7 +3,7 @@ Welcome to my page!
 I'm [Your Name], from Korea.
 
 Things I code with  
-Python | JavaScript | HTML | CSS | Microsoft Azure | Azure OpenAI | Azure Computer Vision  
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> | JavaScript | HTML | CSS | Microsoft Azure | Azure OpenAI | Azure Computer Vision  
 Azure Custom Vision | TensorFlow | PyTorch | Keras | scikit-learn | Power BI | Git | Linux
 
 Recent projects  
