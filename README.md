@@ -14,6 +14,6 @@ Recent projects
 **개인정보 보호 영상 익명화**   | Stars   | Forks   | Issues   | Pull Requests
 
 Where to find me  
-- **GitHub**: [GitHub Profile](https://github.com/YourID)  
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- **GitHub**: [GitHub Profile]([https://github.com/YourID](https://github.com/KimEnJang))  
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/hyunjun-kim-a97b92337/))  
 
