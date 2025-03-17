@@ -1,11 +1,5 @@
 ## Hello, World!  
-![header](https://capsule-render.vercel.app/api?type=egg
-&color=000000
-&height=200
-&section=header
-&text=HyunJun%27s%20Github%20👾
-&fontSize=50
-&fontColor=4169E1)
+![header](https://capsule-render.vercel.app/api?type=egg&color=000000&height=200&section=header&text=HyunJun%27s%20Github%20👾&fontSize=50&fontColor=4169E1)
 
 
 
