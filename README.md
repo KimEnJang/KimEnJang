@@ -1,16 +1,19 @@
-## Hi there 👋
+Hello, World!  
+Welcome to my page!  
+I'm [Your Name], from Korea.
 
-<!--
-**KimEnJang/KimEnJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Things I code with  
+Python | JavaScript | HTML | CSS | Microsoft Azure | Azure OpenAI | Azure Computer Vision  
+Azure Custom Vision | TensorFlow | PyTorch | Keras | scikit-learn | Power BI | Git | Linux
 
-Here are some ideas to get you started:
+Recent projects  
+🎁 Projects                   | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests
+---------------------------- | ------- | ------- | -------- | ---------------
+**IseeU** (AI 유동인구 분석)  | Stars   | Forks   | Issues   | Pull Requests
+**RAG 정책 상담 챗봇**          | Stars   | Forks   | Issues   | Pull Requests
+**개인정보 보호 영상 익명화**   | Stars   | Forks   | Issues   | Pull Requests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Where to find me  
+- **GitHub**: [GitHub Profile](https://github.com/YourID)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+
