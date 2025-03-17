@@ -23,7 +23,7 @@
 
 
 ## Where to find me  
-- **GitHub**: [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge"/>](https://github.com/KimEnJang)
-- **LinkedIn**: [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/hyunjun-kim-a97b92337/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge"/>](https://github.com/KimEnJang)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/hyunjun-kim-a97b92337/)
 
 
