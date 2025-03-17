@@ -1,5 +1,6 @@
 ## Hello, World!  
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=HyunJun%27s%20Github%20🐱&fontSize=50&fontColor=0000FF)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=150&section=header&text=HyunJun%27s%20Github%20🐱&fontSize=50&fontColor=1E90FF)
+
 
 
 <img src="https://img.shields.io/badge/Welcome-HyunJun's%20GitHub-blue?style=flat-square"/>
