@@ -1,5 +1,6 @@
 ## Hello, World!  
-Welcome to my page!  
+<img src="https://img.shields.io/badge/Welcome-HyunJun's%20GitHub-blue?style=flat-square"/>
+ 
 I'm HyunJun Kim, from Korea.
 
 ## Stacks  
