@@ -19,6 +19,15 @@ Recent projects
 **RAG 정책 상담 챗봇**          | Stars   | Forks   | Issues   | Pull Requests
 **개인정보 보호 영상 익명화**   | Stars   | Forks   | Issues   | Pull Requests
 
+## Recent Projects
+
+| 🎁 Projects                | ⭐ Stars                                                                                                              | 📚 Forks                                                                                                              | 🛎 Issues                                                                                                              | 📬 Pull Requests                                                                                                                      |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **Scouter Project**       | ![GitHub Stars](https://img.shields.io/github/stars/Seungwoo-H1/Scouter_PJ?style=flat-square&label=Stars&labelColor=343b41)   | ![GitHub Forks](https://img.shields.io/github/forks/Seungwoo-H1/Scouter_PJ?style=flat-square&label=Forks&labelColor=343b41)   | ![GitHub Issues](https://img.shields.io/github/issues/Seungwoo-H1/Scouter_PJ?style=flat-square&label=Issues&labelColor=343b41)  | ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Seungwoo-H1/Scouter_PJ?style=flat-square&label=Pull%20Requests&labelColor=343b41) |
+| **AI skin diagnosis**     | ![Stars](#)                                                                                                          | ![Forks](#)                                                                                                          | ![Issues](#)                                                                                                          | ![Pull Requests](#)                                                                                                                  |
+| **AI cctv project**       | ![Stars](#)                                                                                                          | ![Forks](#)                                                                                                          | ![Issues](#)                                                                                                          | ![Pull Requests](#)                                                                                                                  |
+
+
 Where to find me  
 - **GitHub**: [GitHub Profile](https://github.com/YourID](https://github.com/KimEnJang)  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/hyunjun-kim-a97b92337/)  
